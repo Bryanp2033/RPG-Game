@@ -1,0 +1,28 @@
+body {
+    background-color: lightcyan;
+}
+
+.jumbotron {
+    background-color: white;
+    height: 1200px;;
+}
+
+.total{
+    margin-top: 50px;
+    float: left;
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+}
+
+.lose{
+    background-color: red;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.card{
+    margin-top: 85px;
+    margin-right: 40px;
+
+}
